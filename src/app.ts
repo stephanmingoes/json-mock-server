@@ -1,6 +1,8 @@
 import express from "express";
 import axios from "axios";
+import cors from "cors";
 const app = express();
+app.use(cors());
 const port = process.env.PORT || 4000;
 
 app.get("/", (req, res) => {
