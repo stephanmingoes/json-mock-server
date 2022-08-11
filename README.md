@@ -12,4 +12,4 @@ Simple tool for turning JSON file into a fake REST API in seconds.
 
 The data.json is a file within the root of this repository.
 
-=> https://json-faker-server-sc.herokuapp.com/json-mock-server/data.json
+=> https://json-faker-server-sc.herokuapp.com/stephanmingoes/json-mock-server/data.json
